@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\menu-app-rahma\bin\Debug\menu-app-rahma.exe.config
+C:\Users\User\source\repos\menu-app-rahma\bin\Debug\menu-app-rahma.exe
+C:\Users\User\source\repos\menu-app-rahma\bin\Debug\menu-app-rahma.pdb
+C:\Users\User\source\repos\menu-app-rahma\obj\Debug\menu-app-rahma.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\menu-app-rahma\obj\Debug\menu-app-rahma.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\menu-app-rahma\obj\Debug\menu-app-rahma.exe
+C:\Users\User\source\repos\menu-app-rahma\obj\Debug\menu-app-rahma.pdb
